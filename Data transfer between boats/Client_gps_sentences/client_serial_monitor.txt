@@ -1,0 +1,31 @@
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+$GPGGA,113639.00,6324.97964,N,0
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+1024.62349,E,1,06,1.57,75.8,M,3
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+9.9,M$GPVTG,,T,,M,0.057,N,0.106
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+,K,A*26
+
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+$GPGGA,113642.00,6324.97968,N,0
+Last Packet Send Status: Delivery Fail
+GPS NMEA sentence sent successfully:
+1024.62360,E,1,06,1.57,75.5,M,3
+Last Packet Send Status: Delivery Fail
+GPS NMEA sentence sent successfully:
+9.9,M,,N,01024.62373,E,1,06,1.5
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+7,75.8,M,39.9,M,,*61
+81,E,1,06,
+Last Packet Send Status: Delivery Success
+GPS NMEA sentence sent successfully:
+1.58,75.8,M,39.9,M,,*6E
+19,E,1,
+Last Packet Send Status: Delivery Success

@@ -1,0 +1,248 @@
+ESP-ROM:esp32c3-api1-20210207
+Build:Feb  7 2021
+rst:0x1 (POWERON),boot:0xc (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fcd5820,len:0x1058
+load:0x403cc710,len:0x8a8
+load:0x403ce710,len:0x2fac
+entry 0x403cc710
+ESP-NOW Server Starting...
+ESP32 MAC Address: 58:CF:79:07:3B:F8
+ESP-NOW Server Initialized and Ready to Receive Messages.
+ESP-ROM:esp32c3-api1-20210207
+Build:Feb  7 2021
+rst:0x1 (POWERON),boot:0xc (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fcd5820,len:0x1058
+load:0x403cc710,len:0x8a8
+load:0x403ce710,len:0x2fac
+entry 0x403cc710
+ESP-NOW Server Starting...
+ESP32 MAC Address: 58:CF:79:07:3B:F8
+ESP-NOW Server Initialized and Ready to Receive Messages.
+ESP-ROM:esp32c3-api1-20210207
+Build:Feb  7 2021
+rst:0x1 (POWERON),boot:0xc (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fcd5820,len:0x1058
+load:0x403cc710,len:0x8a8
+load:0x403ce710,len:0x2fac
+entry 0x403cc710
+ESP-NOW Server Starting...
+ESP32 MAC Address: 58:CF:79:07:3B:F8
+ESP-NOW Server Initialized and Ready to Receive Messages.
+Received message from EC:62:60:9B:F8:B0: Hello #1
+Received message from EC:62:60:9B:F8:B0: Hello #2
+Received message from EC:62:60:9B:F8:B0: Hello #3
+Received message from EC:62:60:9B:F8:B0: Hello #4
+Received message from EC:62:60:9B:F8:B0: Hello #5
+Received message from EC:62:60:9B:F8:B0: Hello #6
+Received message from EC:62:60:9B:F8:B0: Hello #7
+Received message from EC:62:60:9B:F8:B0: Hello #8
+Received message from EC:62:60:9B:F8:B0: Hello #9
+Received message from EC:62:60:9B:F8:B0: Hello #10
+Received message from EC:62:60:9B:F8:B0: Hello #11
+Received message from EC:62:60:9B:F8:B0: Hello #12
+Received message from EC:62:60:9B:F8:B0: Hello #13
+Received message from EC:62:60:9B:F8:B0: Hello #14
+Received message from EC:62:60:9B:F8:B0: Hello #15
+Received message from EC:62:60:9B:F8:B0: Hello #16
+Received message from EC:62:60:9B:F8:B0: Hello #17
+Received message from EC:62:60:9B:F8:B0: Hello #18
+Received message from EC:62:60:9B:F8:B0: Hello #19
+Received message from EC:62:60:9B:F8:B0: Hello #20
+Received message from EC:62:60:9B:F8:B0: Hello #21
+Received message from EC:62:60:9B:F8:B0: Hello #22
+Received message from EC:62:60:9B:F8:B0: Hello #23
+Received message from EC:62:60:9B:F8:B0: Hello #24
+Received message from EC:62:60:9B:F8:B0: Hello #25
+Received message from EC:62:60:9B:F8:B0: Hello #26
+Received message from EC:62:60:9B:F8:B0: Hello #27
+Received message from EC:62:60:9B:F8:B0: Hello #28
+Received message from EC:62:60:9B:F8:B0: Hello #29
+Received message from EC:62:60:9B:F8:B0: Hello #30
+Received message from EC:62:60:9B:F8:B0: Hello #31
+Received message from EC:62:60:9B:F8:B0: Hello #32
+Received message from EC:62:60:9B:F8:B0: Hello #33
+Received message from EC:62:60:9B:F8:B0: Hello #34
+Received message from EC:62:60:9B:F8:B0: Hello #35
+Received message from EC:62:60:9B:F8:B0: Hello #36
+Received message from EC:62:60:9B:F8:B0: Hello #37
+Received message from EC:62:60:9B:F8:B0: Hello #38
+Received message from EC:62:60:9B:F8:B0: Hello #39
+Received message from EC:62:60:9B:F8:B0: Hello #40
+Received message from EC:62:60:9B:F8:B0: Hello #41
+Received message from EC:62:60:9B:F8:B0: Hello #42
+Received message from EC:62:60:9B:F8:B0: Hello #43
+Received message from EC:62:60:9B:F8:B0: Hello #44
+Received message from EC:62:60:9B:F8:B0: Hello #45
+Received message from EC:62:60:9B:F8:B0: Hello #46
+Received message from EC:62:60:9B:F8:B0: Hello #47
+Received message from EC:62:60:9B:F8:B0: Hello #48
+Received message from EC:62:60:9B:F8:B0: Hello #49
+Received message from EC:62:60:9B:F8:B0: Hello #50
+Received message from EC:62:60:9B:F8:B0: Hello #51
+Received message from EC:62:60:9B:F8:B0: Hello #52
+Received message from EC:62:60:9B:F8:B0: Hello #53
+Received message from EC:62:60:9B:F8:B0: Hello #54
+Received message from EC:62:60:9B:F8:B0: Hello #55
+Received message from EC:62:60:9B:F8:B0: Hello #56
+Received message from EC:62:60:9B:F8:B0: Hello #57
+Received message from EC:62:60:9B:F8:B0: Hello #58
+Received message from EC:62:60:9B:F8:B0: Hello #59
+Received message from EC:62:60:9B:F8:B0: Hello #60
+Received message from EC:62:60:9B:F8:B0: Hello #61
+Received message from EC:62:60:9B:F8:B0: $
+Received message from EC:62:60:9B:F8:B0: GPRMC,,V,,,,,,,,,,N*53
+
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,,,,,,,,N*30
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,,,,,,0,00,99.99,,,,,,*48
+Received message from EC:62:60:9B:F8:B0: 
+
+Received message from EC:62:60:9B:F8:B0: $GPGSA,A,1,,,,,,,,,,,,,99.99,99
+Received message from EC:62:60:9B:F8:B0: .99,99.99*30
+
+Received message from EC:62:60:9B:F8:B0: $GPGSV,1,1,00*79
+
+Received message from EC:62:60:9B:F8:B0: $GPGLL,,,,,,V,N*64
+
+Received message from EC:62:60:9B:F8:B0: $GPRMC,,V,,,,,,,,,,N*53
+
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,,,,,,,,N*30
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,,,,,,0,00,99.99,,,,,,*48
+Received message from EC:62:60:9B:F8:B0: 
+
+Received message from EC:62:60:9B:F8:B0:             ) r  b  r  b  r  R 
+Received message from EC:62:60:9B:F8:B0: $GPRMC,,V,,,,,,,,,,N*53
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,,,,,,0,00,99.99,,,,,,*48
+Received message from EC:62:60:9B:F8:B0: 
+
+Received message from EC:62:60:9B:F8:B0: 99.99,,,,,,*48
+
+Received message from EC:62:60:9B:F8:B0: $GP,1,02,05,,,41,11,,,37*7F
+
+Received message from EC:62:60:9B:F8:B0: ,,,,,,*67
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113442.00,,,,,0,00,99.99
+Received message from EC:62:60:9B:F8:B0: ,,,,,,*67
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113447.00,,,,,0,00,99.99
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,T,,M,0.246,N,0.456,K,A*
+Received message from EC:62:60:9B:F8:B0: $GPGGA,1135A,A*64
+
+Received message from EC:62:60:9B:F8:B0: $GPRMC,113510.00,A,6324.98254,N
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,T,,M,0.278,N,0.514,K,A*
+Received message from EC:62:60:9B:F8:B0: 2E
+
+Received message from EC:62:60:9B:F8:B0: 4,,,A*76
+
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,T,,M,0.339,N,0.628,K,A*
+Received message from EC:62:60:9B:F8:B0: 26
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,1VTG,,T,,M,0.323,N,0.597
+Received message from EC:62:60:9B:F8:B0: ,K,A*2A
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113520.00,PVTG,,T,,M,0.3
+Received message from EC:62:60:9B:F8:B0: 59,N,0.666,K,A*2A
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113524.00,6333,K,A*24
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113526.00,6324.9826
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113528.00,6324113529.00,
+Received message from EC:62:60:9B:F8:B0: 6324.98268,,113530.00,6324.$GPG
+Received message from EC:62:60:9B:F8:B0: GA,113531.00,6324.982GPGGA,1135
+Received message from EC:62:60:9B:F8:B0: 32.00,6324.9813533.00,6324.,113
+Received message from EC:62:60:9B:F8:B0: 534.0K,A*26
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113535.00,6324
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113538.00,6324.
+
+Received message from EC:62:60:9B:F8:B0: ,6324.98294,N
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113547.00,6324.9829*2E
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113549.00,6324.98297,,E,
+Received message from EC:62:60:9B:F8:B0: 0.059,,111024,,,A*7D
+
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,T,,M,0.059,N,0.110,K,A*
+Received message from EC:62:60:9B:F8:B0: 2F
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113551.00,6324.98303,N,0
+Received message from EC:62:60:9B:F8:B0: 0,6324.98278,N,0$GPGGA,113555.0
+Received message from EC:62:60:9B:F8:B0: 0,6324.98279,N
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113556.00,6324.98281,N,0
+Received message from EC:62:60:9B:F8:B0: 102079,N,0.146,K,A*2E
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113558.00,6324.98276,N,0
+Received message from EC:62:60:9B:F8:B0: 13559.00,6324.98269,N,013600.00
+Received message from EC:62:60:9B:F8:B0: ,6324.98262,N,013601.00,6324.98
+Received message from EC:62:60:9B:F8:B0: 254,N,01024.631,6324.98239,N,01
+Received message from EC:62:60:9B:F8:B0: 024.6307A*2D
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113604.00,6324.98234,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.630,6324.98233,N,01024.630
+Received message from EC:62:60:9B:F8:B0: 56324.98223,N,01024.63030,24.98
+Received message from EC:62:60:9B:F8:B0: 212,N,01024.63004,24.98192,N,01
+Received message from EC:62:60:9B:F8:B0: 024.62950324.98163,N,01024.6286
+Received message from EC:62:60:9B:F8:B0: 4,E4.98145,N,01024.62815,E4.981
+Received message from EC:62:60:9B:F8:B0: 28,N,01024.62767,E,1,06,1.N,010
+Received message from EC:62:60:9B:F8:B0: 24.62712,E,1,06,1.57,65.9,62659
+Received message from EC:62:60:9B:F8:B0: ,E,1,06,1,N,01024.62609,E,1,06,
+Received message from EC:62:60:9B:F8:B0: 1.57,68.1.62566,E,1,06,1.57,69.
+Received message from EC:62:60:9B:F8:B0: 1,M,39.9,,1,06,1.57,69.9,M,39.9
+Received message from EC:62:60:9B:F8:B0: ,M,,*66
+
+Received message from EC:62:60:9B:F8:B0: 4,E,1,06,1.57,70.6,M,39.9,M,,*6
+Received message from EC:62:60:9B:F8:B0: .62477,E,1,06,1.57,71.3,M,39.9,
+Received message from EC:62:60:9B:F8:B0: 01024.62456,E,1,06,1.57,71.8,M,
+Received message from EC:62:60:9B:F8:B0: 08,N,01024.62436,E,1,06,1.57,72
+Received message from EC:62:60:9B:F8:B0: 4.98001,N,01024.62418,E,1,06,1.
+Received message from EC:62:60:9B:F8:B0: 0,6324.97994,N,01024.62402,E,1,
+Received message from EC:62:60:9B:F8:B0: 06,1.5,6324.97990,N,01024.62389
+Received message from EC:62:60:9B:F8:B0: ,E,1,06,1.576324.97986,N,01024.
+Received message from EC:62:60:9B:F8:B0: 62378,E,1,06,1.57,74N,0.053,K,A
+Received message from EC:62:60:9B:F8:B0: *2E
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113623.00,6324.97976,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.62356,E,1,06,1.57,74.46,K,
+Received message from EC:62:60:9B:F8:B0: A*2E
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113625.00,6324.97967,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.62341,E,1,06,1.57,75039,K,
+Received message from EC:62:60:9B:F8:B0: A*2A
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113627.00,6324.97961,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.62328,E,1,06,1.57,75.8,M,A
+Received message from EC:62:60:9B:F8:B0: *74
+
+Received message from EC:62:60:9B:F8:B0: $GPVTG,,T,,M,0.018,N,0.034,K,A*
+Received message from EC:62:60:9B:F8:B0: 2D
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113630.00,6324.97955,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.62319,E,1,06,1.57,76.2,7,7
+Received message from EC:62:60:9B:F8:B0: 6.1,M,39.9,M,,*6E
+
+Received message from EC:62:60:9B:F8:B0: 2,E,1,06,1.57,76.0,M,39,01024.6
+Received message from EC:62:60:9B:F8:B0: 2336,E,1,06,1.57,76.0,M,39.9,02
+Received message from EC:62:60:9B:F8:B0: 4.62341,E,1,06,1.57,75.9,M,39*2
+Received message from EC:62:60:9B:F8:B0: 3
+
+Received message from EC:62:60:9B:F8:B0: $GPGGA,113639.00,6324.97964,N,0
+Received message from EC:62:60:9B:F8:B0: 1024.62349,E,1,06,1.57,75.8,M,3
+Received message from EC:62:60:9B:F8:B0: 9.9,M$GPVTG,,T,,M,0.057,N,0.106
+Received message from EC:62:60:9B:F8:B0: ,K,A*26
+
+Received message from EC:62:60:9B:F8:B0: 9.9,M,,N,01024.62373,E,1,06,1.5
+Received message from EC:62:60:9B:F8:B0: 7,75.8,M,39.9,M,,*61
+81,E,1,06,
+Received message from EC:62:60:9B:F8:B0: 1.58,75.8,M,39.9,M,,*6E
+19,E,1,
