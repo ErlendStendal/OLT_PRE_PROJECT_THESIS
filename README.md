@@ -3,7 +3,7 @@ Project thesis NTNU, December 2024
 
 ## Description
 This repository contains all the code for our project thesis. It includes readouts from sensor and gps, data transfer between boats, and code for calibration.
-
+ChatGPT is used to generate code.
 
 ## Code overview
 The repo consists of five folders, listed with contents in table below
